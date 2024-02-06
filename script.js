@@ -14,5 +14,4 @@
 
     function alertBtn(){
         alert ("nå crasha du siden ;)");
-
     }
