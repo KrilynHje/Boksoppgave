@@ -13,6 +13,6 @@
     }
 
     function alertBtn(){
-        alert ("Du klarte ikke la være? ;)");
+        alert ("nå crasha du siden ;)");
 
     }
